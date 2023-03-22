@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm a co-founder and engineer at [LEX](lex-markets.com)
+I'm a co-founder and CTO/Co-CEO at [LEX](lex-markets.com)
 
 Formerly @google and @umich
 
