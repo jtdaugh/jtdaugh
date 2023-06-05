@@ -1,7 +1,5 @@
 ### Hey there!
 
-I'm a co-founder and CTO/Co-CEO at [LEX](lex-markets.com)
+Formerly co-founder of [LEX](lex-markets.com), ex-@google and @umich
 
-Formerly @google and @umich
-
-Contact: [@jtdaugh](twitter.com/jtdaugh) or jesse@lex-markets.com
+Contact: [@jtdaugh](twitter.com/jtdaugh) or jessedaugherty@gmail.com
